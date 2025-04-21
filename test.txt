@@ -1,0 +1,18 @@
+动态 writing 1
+predict task 1
+动态图
+plan: 3 lines have similar increase trend / car theft have a reverse pattern till the
+peak at around 1995 / street remain steady and creeping up till 0.2 million / the
+order at begin and end remain unchanged, but the proportion of crime both
+increase
+Content
+The line graph illustrates the changes of 3 types of crime that took place in
+England and Wales over a span of 35 years from 1970. In general, it is apparent
+to see that there was an upward trend in all 3 types of crime.
+Initially, car theft was the most frequent crime appeared in England and Wales,
+whose number reached at 0.4 million. From then on, Car theft experienced a
+moderate rose, which climbed by 0.6 million 20 years later. Later on, there was a
+significant increase on the upward gradient of the Car theft which leaping to the
+peak at the figure of 1.6 million prior to 5 years. Eventually, it declined by a 6
+million till the end.
+Likewise, house burglary also underwent an upward trend , but it does not
